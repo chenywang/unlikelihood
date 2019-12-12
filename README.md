@@ -4,6 +4,9 @@ tensorflow implementation of the paper:
     Sean Welleck\*, Ilia Kulikov\*, Stephen Roller, Emily Dinan, Kyunghyun Cho, Jason Weston\
     \*Equal contribution. The order was decided by a coin flip.
 
+## python
+python 3.6
+
 ## notice
 add it to sequence_loss:
 ```
@@ -23,4 +26,3 @@ I set alpha as 1.0
 
 ## requirement
 tensorflow==1.12.0
-python 3.6
